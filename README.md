@@ -17,10 +17,10 @@ When using AI agents (like Cursor, Claude, or ChatGPT) to generate a new skill, 
 使用 AI 助手生成新技能时，请使用以下提示词模板：
 
 **English Prompt:**
-> "Please read the skill generation rules at [Insert RAW URL to SKILL_GENERATION_RULES.md]. Strictly following version 4.1.1 of this specification, generate a new skill that [describe your skill's functionality, e.g., fetches weather data]. Ensure all files, contracts, and naming conventions comply with the rules."
+> "Please read the skill generation rules at https://raw.githubusercontent.com/baddif/ai-builder-templates/main/SKILL_GENERATION_RULES.md. Strictly following version 4.1.1 of this specification, generate a new skill that [describe your skill's functionality, e.g., fetches weather data]. Ensure all files, contracts, and naming conventions comply with the rules."
 
 **中文提示词:**
-> "请读取并严格遵循此规范文件 [插入 SKILL_GENERATION_RULES.md 的 Raw 链接]。根据 v4.1.1 版本的规则，为我生成一个新的技能，功能是：[描述你的需求，例如：抓取指定网页正文]。请确保所有的文件结构、输入输出契约和命名规范都符合文档要求。"
+> "请读取并严格遵循此规范文件 https://raw.githubusercontent.com/baddif/ai-builder-templates/main/SKILL_GENERATION_RULES.md。根据 v4.1.1 版本的规则，为我生成一个新的技能，功能是：[描述你的需求，例如：抓取指定网页正文]。请确保所有的文件结构、输入输出契约和命名规范都符合文档要求。"
 
 ## 📋 Field Explanations / 字段与契约说明
 
