@@ -1,5 +1,8 @@
 AI-SKILL & MCP GENERATION RULES (v4.1.1)
 
+## Author
+Nonpareil Labs - Dif
+
 ## Purpose
 
 Definitive, executable instructions for generating AI-native skills with MCP and CLI support.
